@@ -175,7 +175,7 @@ public class DataBase
             }
             else if (select == 4)
             {
-                Console.WriteLine("\u001b[32m" + "Hesabdan cixis edirsiniz... Uğurlu çıxış!" + "\u001b[0m");
+                
                 exit = true;  
                 Console.Clear();
             }
